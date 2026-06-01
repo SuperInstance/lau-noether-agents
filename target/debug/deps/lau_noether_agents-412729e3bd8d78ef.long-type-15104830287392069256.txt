@@ -1,2 +1,0 @@
-<symmetry::_::<impl Deserialize<'de> for symmetry::SymmetryKind>::deserialize::__Visitor<'de> as Visitor<'de>>::visit_enum::__Field
-symmetry::_::<impl Deserialize<'de> for symmetry::SymmetryDetectionResult>::deserialize::__Field
